@@ -14,7 +14,8 @@ html { box-sizing: border-box; }
 	--grey-900: hsl(0, 0%, 90%);
 
 	--primary: #004769;
-	--accent: #fc0;
+	/* --accent: #fc0; */
+	--accent: red;
 
 	--font-default: 'Open Sans', sans-serif;
 	--font-special: 'Raleway', sans-serif;
